@@ -7,3 +7,7 @@
 #### Identidades de cociente
 #### Identidades reciprocas
 #### Identidades pitagoricas
+
+### Identidades de angulos de suma y diferencia
+
+### Identidades de angulos de mitad y dobles
