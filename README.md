@@ -11,3 +11,5 @@
 ### Identidades de angulos de suma y diferencia
 
 ### Identidades de angulos de mitad y dobles
+
+## Ecuaciones Trigonometricas
